@@ -1,0 +1,234 @@
+.b2 {
+     height : 1500px;
+     width : 1500px;
+     border: 4px solid white;
+     margin-top: 10px;
+     margin-left: 10px;
+}
+.b3{
+     height: 50px;
+     width: 1460px;
+     border: 2px solid white;
+     margin-left: 10px;
+     margin-top: 10px;
+     margin-right: 10px;
+     display: flex;
+}
+.box{
+     height: 20px;
+     width: 150px;
+     border: 2px solid white;
+     gap: 10px;
+     margin-top: 10px;
+     margin-left: 10px;
+     padding: 5px;
+     display: flex;
+     align-items: center;
+     font-size: 20px;
+}
+#bar{
+     height: 300px;
+     width: 1460px;
+     border: 1px solid white;
+     margin-right: 100px;
+     align-self: center;
+     justify-content: flex-start;
+}
+.b1 {
+     height: 1530px;
+     width: 1530px;
+     border: 5px solid white;
+     margin-right: 20px;
+     margin-bottom: 20px;
+     display: flex;
+
+}
+.b4{
+     height: 300px;
+     width: 1460px;
+     border: 1px solid white;
+     margin-top: 10px;
+     margin-right: 100px;
+     margin-left: 10px;
+     align-self: center;
+     justify-content: flex-start;
+
+}
+.b5 {
+     height: 300px;
+     width:  1460px;
+     border: 1px solid white;
+     margin-top: 10px;
+     margin-left: 10px;
+}
+#a {
+     height: 150px;
+     width: 340px;
+     gap: 50px;
+     margin-left: 10px;
+     border: 2px solid white ;
+}
+.b6 {
+     height: 350px;
+     width: 1460px;
+     border: 3px solid white;
+     margin-top: 70px;
+     margin-right: 100px;
+     margin-left: 10px;
+     align-self: center;
+     justify-content: flex-start;
+     background-color: grey;
+
+}
+.b7
+{
+     height: 300px;
+     width:  1460px;
+     border: 1px solid white;
+     margin-top: 10px;
+     margin-left: 10px;  
+}
+.bin{
+     height: 150px;
+     width: 340px;
+     gap: 30px;
+     margin-left: 5px;
+     border: 2px solid white ; 
+}
+.i{
+     height: 150px;
+     width: 1430px;
+     border: 2px solid white;
+     margin-left: 15px;
+     margin-top: 10px;
+     margin-right:10px;
+     display: flex; 
+}
+.j {
+     height: 150px;
+     width: 1430px;
+     border: 2px solid white;
+     margin-left: 15px;
+     margin-top: 10px;
+     margin-right: 10px;
+     display: flex;  
+}
+.e{
+     height: 30px;
+     width: 200px;
+     border: 2px solid white;
+     justify-content: flex-start;
+     margin-left: 100px;
+     padding: 10px;
+     gap: 10px;
+     margin-bottom: 25px;
+     display: flex;
+
+}
+.f{
+     height: 30px;
+     width: 200px;
+     border: 2px solid white;
+     margin-top: 45px;
+     display: flex;
+     margin-right: 20px;
+     
+}
+.o {
+     height: 100px;
+     width: 1400px ;
+     border: 0.5px solid white;
+     display: flex;
+     margin-top: 10px;
+     padding: 10px;
+     gap: 10px;
+     margin-left: 10px;
+}
+.h{
+     height: 30px;
+     width: 200px;
+     border: 2px solid white;
+     justify-content: flex-start;
+     margin-left: 100px;
+     padding: 10px;
+     gap: 10px;
+     margin-bottom: 25px;
+     display: flex;
+
+}
+.l{
+     height: 30px;
+     width: 200px;
+     border: 2px solid white;
+     padding: 10px;
+     margin-top: 45px;
+     display: flex;
+     margin-right: 20px;
+     
+}
+.p{
+     height: 100px;
+     width: 1400px ;
+     border: 0.5px solid white;
+     display: flex;
+     margin-top: 10px;
+     padding: 10px;
+     gap: 10px;
+     margin-left:10px;
+}
+img {
+     height: 300px;
+     width: 1460px;
+     border: 1px solid white;
+     margin-right: 100px;
+     align-self: center;
+     justify-content: flex-start;
+}
+#watsapp {
+     height: 150px;
+     width: 340px;
+     margin-bottom: 10px;
+}
+#yt {
+     height: 150px;
+     width: 340px;
+     margin-bottom: 10px;
+}
+#instagram {
+     height: 150px;
+     width: 340px;
+     margin-bottom: 10px;
+}
+#linkedin {
+     height: 150px;
+     width: 340px;
+     margin-bottom: 10px;
+}
+#pubgg{
+     height: 350px;
+     width: 300px;
+}
+#pubgb {
+     height: 350px;
+     width: 300px;
+}
+#bg {
+     height: 350px;
+     width: 550px;
+}
+#spotify {
+     height: 150px;
+     width: 340px;
+}
+#rapido {
+     height: 150px;
+     width: 340px;
+}
+#prime{
+     height: 150px;
+     width: 340px;
+}
+#netflix {
+     height: 150px;
+     width: 340px;
+}
